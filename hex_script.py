@@ -1,4 +1,4 @@
-# Author: Isaac Olukunke <bolanle93@yahoo.com>
+# Author: Isaac Olukunle <bolanle93@yahoo.com>
 
 #This is a simple python script
 #That provided with the memory address as a Hex string (e.g abcd5678),
